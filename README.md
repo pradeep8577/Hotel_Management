@@ -1,6 +1,6 @@
 # Hotel_Management
 
-##To run Program
+## To run Program
 
 `pip install flask`
 
